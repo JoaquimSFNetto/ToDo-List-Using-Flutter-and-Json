@@ -1,6 +1,6 @@
-# lista_tarefas
+# To do List
 
-A new Flutter project.
+This is a to-do list project in Flutter using json-server for testing.
 
 ## Getting Started
 
